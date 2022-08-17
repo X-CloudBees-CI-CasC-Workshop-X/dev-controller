@@ -1,0 +1,4 @@
+variables:
+- team: X-CloudBees-CI-CasC-Workshop-X
+- admin-user: xsc27-admin
+- manager-user: xsc27
